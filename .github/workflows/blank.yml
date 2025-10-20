@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  # 每天凌晨自动更新
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许手动运行
+  workflow_dispatch:
+  # 每次推送更新时运行（可选）
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          # 👇 下面是推荐配置，可根据需要修改
+          user: NNNietzsche
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Tokyo
+          plugins_activity: yes
+          plugins_languages: yes
+          plugins_achievements: yes
