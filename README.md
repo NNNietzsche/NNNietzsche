@@ -1,8 +1,7 @@
-# 👋 Hi, I'm NNNietzsche (Ding Jiaye)
+# 👋 Hi, I'm NNNietzsche
 
-💡 A developer who loves philosophy, AI, and building thoughtful tools.  
-📍 Based in Shanghai | 🌐 [github.com/NNNietzsche](https://github.com/NNNietzsche)  
-🧠 “He who has a why to live can bear almost any how.” — Nietzsche  
+🌐 [github.com/NNNietzsche](https://github.com/NNNietzsche)  
+
 
 ---
 
@@ -19,37 +18,17 @@
 
 ---
 
-## 🧮 Most Used Languages
+## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNNietzsche&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NNNietzsche&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 GitHub Trophies
+![](https://raw.githubusercontent.com/NNNietzsche/NNNietzsche/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NNNietzsche&theme=tokyonight&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🎧 Now Playing (Spotify)
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
----
-
-## 🧩 About Me
-
-- 💻 Passionate about AI, NLP, and creative computation.  
-- 📚 Reader of Nietzsche and Schopenhauer.  
-- 🌱 Exploring: Large Language Models & Generative Agents.  
-- 🎨 Hobbies: digital art, music production, and coding experiments.  
-
----
-
-⭐️ _Inspired by the abyss, creating meaning through code._
