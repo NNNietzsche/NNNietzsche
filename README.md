@@ -1,38 +1,15 @@
 # 👋 Hi, I'm NNNietzsche
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NNNietzsche&label=PROFILE+VIEWS" alt="views" />
+</p>
 
-## Profile Views
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NNNietzsche&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNNietzsche&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=NNNietzsche&label=PROFILE+VIEWS)
-<br>
-
----
-
-## ⚙️ GitHub Stats
-
-![NNNietzsche's stats](https://github-readme-stats.vercel.app/api?username=NNNietzsche&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNNietzsche&layout=compact&theme=tokyonight)
-
----
-
-## GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NNNietzsche&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-![Jiaye's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=NNNietzsche&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
----
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=NNNietzsche&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NNNietzsche&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=NNNietzsche&theme=tokyonight&combine_all_yearly_contributions=true" height="165" />
+</p>
