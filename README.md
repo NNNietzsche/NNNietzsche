@@ -30,5 +30,6 @@
 
 ---
 
-![](https://raw.githubusercontent.com/NNNietzsche/NNNietzsche/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+![Jiaye's Contribution Stats](https://github-contributor-stats.vercel.app/api?username=NNNietzsche&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
