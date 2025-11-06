@@ -1,11 +1,8 @@
 # 👋 Hi, I'm NNNietzsche
 
-🌐 [github.com/NNNietzsche](https://github.com/NNNietzsche)  
-
-
 ---
 
-## 👁️ Profile Views
+## Profile Views
 
 ![](https://komarev.com/ghpvc/?username=NNNietzsche&label=PROFILE+VIEWS)
 <br>
