@@ -11,5 +11,5 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NNNietzsche&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=NNNietzsche&theme=tokyonight&combine_all_yearly_contributions=true" height="165" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=NNNietzsche&theme=tokyonight&combine_all_yearly_contributions=true&no-bg=true" height="165" />
 </p>
