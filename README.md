@@ -27,6 +27,7 @@
 
 ---
 
-![Jiaye's Contribution Stats](https://github-contributor-stats.vercel.app/api?username=NNNietzsche&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Jiaye's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=NNNietzsche&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 
