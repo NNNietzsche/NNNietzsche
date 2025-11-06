@@ -30,4 +30,9 @@
 ![Jiaye's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=NNNietzsche&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
+---
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=NNNietzsche&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+
 
