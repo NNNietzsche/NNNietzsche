@@ -44,19 +44,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔮 **Project Aether** | A modular automation framework | TypeScript / Node.js |
-| 🌑 **DarkSynth UI** | A cyber-aesthetic component library | React / Tailwind |
-| ⚙️ **RustyTools** | Command-line utilities written in Rust | Rust |
-
-
-</p>
-
----
-
 <p align="center">
   <i>“Keep hacking. Keep creating. Keep exploring.”</i>
 </p>
