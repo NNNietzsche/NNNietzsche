@@ -52,20 +52,7 @@
 | 🌑 **DarkSynth UI** | A cyber-aesthetic component library | React / Tailwind |
 | ⚙️ **RustyTools** | Command-line utilities written in Rust | Rust |
 
----
 
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/NNNietzsche">
-    <img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-1e1e2e?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1d1e25?style=for-the-badge&logo=twitter" />
-  </a>
 </p>
 
 ---
