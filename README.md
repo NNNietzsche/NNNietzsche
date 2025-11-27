@@ -34,18 +34,11 @@
 ##  GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NNNietzsche&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNNietzsche&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-
-## Author GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NNNietzsche&show_icons=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NNNietzsche&theme=github)
 
 
 
