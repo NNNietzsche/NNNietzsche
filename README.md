@@ -40,6 +40,3 @@
 
 ---
 
-<p align="center">
-  <i>“Keep hacking. Keep creating. Keep exploring.”</i>
-</p>
