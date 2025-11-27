@@ -39,7 +39,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNNietzsche&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## GitHub Activity Graph
 
+![Stats](https://raw.githubusercontent.com/NNNietzsche/NNNietzsche/master/profile-summary-card-output/default/3-stats.svg)
 
 
 
