@@ -6,16 +6,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💡 Exploring full-stack development and creative coding  
-- 🔍 Passionate about AI, automation, DevOps & system design  
-- 🌙 Minimalist, lifelong learner, writes code at night  
-- 🧪 Currently experimenting with: Rust · Next.js · Cloud-native tools  
+-  Exploring full-stack development and creative coding  
+-  Passionate about AI, automation, DevOps & system design  
+-  Minimalist, lifelong learner, writes code at night  
+-  Currently experimenting with: Rust · Next.js · Cloud-native tools  
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 **Languages**
 > JavaScript · TypeScript · Python · C++ · Rust · Go
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=NNNietzsche&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
