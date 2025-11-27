@@ -41,3 +41,11 @@
 ---
 
 
+## Author GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NNNietzsche&show_icons=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NNNietzsche&theme=github)
+
+
+
