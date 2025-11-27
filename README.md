@@ -39,4 +39,16 @@
 </p>
 
 ---
+## GitHub Summary Cards
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NNNietzsche&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NNNietzsche&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NNNietzsche&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NNNietzsche&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NNNietzsche&theme=github&utcOffset=9)
+
 
