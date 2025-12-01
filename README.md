@@ -34,9 +34,11 @@
 ##  GitHub Analytics
 
 <p align="center">
+<img src="https://cdn.jsdelivr.net/gh/NNNietzsche/NNNietzsche@main/profile-summary-card-output/default/1-repos-per-language.svg" />
 
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NNNietzsche&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NNNietzsche&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://cdn.jsdelivr.net/gh/NNNietzsche/NNNietzsche@main/profile-summary-card-output/default/3-stats.svg" />
+
+
 
 
 </p>
