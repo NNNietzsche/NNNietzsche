@@ -34,8 +34,8 @@
 ##  GitHub Analytics
 
 <p align="center">
- ![](https://raw.githubusercontent.com/NNNietzsche/NNNietzsche/main/profile-summary-card-output/default/1-repos-per-language.svg)
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NNNietzsche&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://cdn.jsdelivr.net/gh/NNNietzsche/NNNietzsche@main/profile-summary-card-output/default/1-repos-per-language.svg" />
+
 </p>
 
 
