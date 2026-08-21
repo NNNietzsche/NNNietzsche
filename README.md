@@ -1,4 +1,4 @@
-#  🗿NNNietzsche — Welcome to My Digital Observatory
+#  NNNietzsche — My Digital Observatory
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AA9FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;Open-Source+Explorer;Full-Stack+Craftsman;Learning+%26+Experimenting+Every+Day" />
