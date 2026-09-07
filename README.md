@@ -11,7 +11,7 @@
 - Majoring in **Information Systems Science and Engineering** at **Ritsumeikan University** (立命館大学), Class of 2027.
 - Active researcher at **Intelligent Computer Entertainment Lab**, focusing on Software Engineering, Agent Systems, and Affective Computing.
 - Team Leader & Full-Stack Developer of the **EXPO 2025 Social Practice Project "粉 Mon Map"**, which won the **Grand Prize (最優秀賞)** in a final evaluation with 2,000+ voters.
-- Trilingual developer fluent in **Chinese** (Native), **Japanese** (JLPT N1), and **English** (TOEFL 106).
+- Trilingual developer fluent in **Chinese** (Native), **Japanese** (JLPT N1), and **English** .
 - Deeply passionate about **AI/LLM Application Development**, Full-Stack Engineering, and Creative Coding.
 
 ---
